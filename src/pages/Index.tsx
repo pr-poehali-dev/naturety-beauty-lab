@@ -14,7 +14,7 @@ const Index = () => {
         <div className="container mx-auto flex h-16 items-center justify-between px-4">
           <div className="flex items-center space-x-2">
             <Icon name="Sparkles" size={24} className="text-primary" />
-            <h1 className="text-2xl font-heading font-bold bg-gradient-to-r from-primary to-lavender-500 bg-clip-text text-transparent">
+            <h1 className="text-3xl font-heading font-bold bg-gradient-to-r from-primary to-lavender-500 bg-clip-text text-transparent">
               Naturety Lab
             </h1>
           </div>
@@ -45,7 +45,7 @@ const Index = () => {
       <section id="home" className="py-20 px-4">
         <div className="container mx-auto text-center">
           <div className="animate-fade-in">
-            <h2 className="text-5xl md:text-6xl font-heading font-bold mb-6 bg-gradient-to-r from-primary via-lavender-400 to-secondary bg-clip-text text-transparent">
+            <h2 className="text-6xl md:text-7xl font-heading font-bold mb-6 bg-gradient-to-r from-primary via-lavender-400 to-secondary bg-clip-text text-transparent">
               Красота изнутри
             </h2>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
@@ -77,7 +77,7 @@ const Index = () => {
       <section id="products" className="py-16 px-4 bg-white/50">
         <div className="container mx-auto">
           <div className="text-center mb-12">
-            <h3 className="text-3xl font-heading font-bold mb-4">Наша продукция</h3>
+            <h3 className="text-4xl font-heading font-bold mb-4">Наша продукция</h3>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Каждый продукт создан с использованием передовых технологий и натуральных ингредиентов
             </p>
@@ -162,7 +162,7 @@ const Index = () => {
         <div className="container mx-auto max-w-4xl">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h3 className="text-3xl font-heading font-bold mb-6">О нас</h3>
+              <h3 className="text-4xl font-heading font-bold mb-6">О нас</h3>
               <p className="text-gray-600 mb-4">
                 Naturety Lab — это результат многолетних исследований в области нутрициологии 
                 и косметологии. Мы создаем продукты, которые работают изнутри, 
@@ -203,7 +203,7 @@ const Index = () => {
       <section id="distributors" className="py-16 px-4 bg-gradient-to-r from-primary/5 to-secondary/5">
         <div className="container mx-auto max-w-4xl">
           <div className="text-center mb-12">
-            <h3 className="text-3xl font-heading font-bold mb-4">Дистрибьюторам</h3>
+            <h3 className="text-4xl font-heading font-bold mb-4">Дистрибьюторам</h3>
             <p className="text-gray-600 max-w-2xl mx-auto">
               Присоединяйтесь к нашей партнерской программе и развивайте бизнес в сфере красоты и здоровья
             </p>
@@ -240,7 +240,7 @@ const Index = () => {
       <section id="certificates" className="py-16 px-4 bg-white">
         <div className="container mx-auto max-w-4xl">
           <div className="text-center mb-12">
-            <h3 className="text-3xl font-heading font-bold mb-4">Сертификаты и награды</h3>
+            <h3 className="text-4xl font-heading font-bold mb-4">Сертификаты и награды</h3>
             <p className="text-gray-600">
               Наше качество подтверждено международными сертификатами
             </p>
@@ -275,7 +275,7 @@ const Index = () => {
       <section id="contacts" className="py-16 px-4 bg-gray-50">
         <div className="container mx-auto max-w-4xl">
           <div className="text-center mb-12">
-            <h3 className="text-3xl font-heading font-bold mb-4">Свяжитесь с нами</h3>
+            <h3 className="text-4xl font-heading font-bold mb-4">Свяжитесь с нами</h3>
             <p className="text-gray-600">
               Готовы ответить на все ваши вопросы о продукции и сотрудничестве
             </p>
@@ -347,7 +347,7 @@ const Index = () => {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Sparkles" size={24} className="text-primary" />
-                <h4 className="text-xl font-heading font-bold">Naturety Lab</h4>
+                <h4 className="text-2xl font-heading font-bold">Naturety Lab</h4>
               </div>
               <p className="text-gray-400 text-sm">
                 Красота и здоровье с научным подходом

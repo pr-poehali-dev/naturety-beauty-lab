@@ -117,4 +117,9 @@ export default {
 		}
 	},
 	plugins: [require("tailwindcss-animate")],
+	fontFamily: {
+		sans: ['Open Sans', 'sans-serif'],
+		heading: ['Dancing Script', 'cursive'],
+		accent: ['Caveat', 'cursive'],
+	}
 } satisfies Config;
